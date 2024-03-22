@@ -17,4 +17,4 @@ This project aims to detect instances of animal abuse in images using the YOLOv8
 - **Specialization**: Fine-tune for specific types of abuse or animals.
 
 ## Contributions
-Contributions are welcome! Feel free to suggest enhancements or report issues.
+Contributions are welcome! Do feel free to suggest enhancements or report issues.
